@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1081928045669",
+    "firebase_url": "https://modul6-15ad0.firebaseio.com",
+    "project_id": "modul6-15ad0",
+    "storage_bucket": "modul6-15ad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081928045669:android:6e3ed7c905eecdd1",
+        "android_client_info": {
+          "package_name": "com.levegra.anthonius_1202150034_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081928045669-6rg832adg7pv05q9qnnra38gocdkt9qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWcCHoaT9NNeJgUrzBXa9cSUDXFAZrRM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
